@@ -1,12 +1,12 @@
-##Contents 
+## Contents 
 This repository contains materials relevant to DS 4002, "Data Science Project Course", this project aims to assess the sentiment of different newspaper articles on different political candidates. Our hypothesis focuses on determining whether there is an actual difference in sentiment between the different newspapers categorized based on their political leanings when they talk about certain political candidates.  This repository will include the source folder, data used, figures produced, and references that were used.
 
-##SRC Section 
+## SRC Section 
 Installing and building the code: To run code download the excel file from Kaggle’https://www.kaggle.com/datasets/snapcrack/all-the-news’ and save it in the same workspace as the MI2-DS4002-Project2.Rmd file. Once the workspace is set to the directory you saved the Rmd file in, you are able to run the code directly from the rmd file.
 
 Using the code: You will be able to run the Rmd file, which will manipulate and clean the dataframe and produce the visualizations.
 
-##DATA
+## DATA
 Link to data: https://github.com/ahs2aew/MI3-Project2/tree/main/Data
 
 Variables:
@@ -39,18 +39,18 @@ Figure 7: This graph shows the sentiment of left publications in regards to the 
 Figure 8: This graph shows the sentiment of right publications in regards to the political candidate Sanders and demonstrates that most of the publications represent him neutrally in the media.Although the difference here is that there was a smaller sample size relative to the other candidates.
 
 
-##References
+## References
 
 [1]A. Thompson, “All the news,” Kaggle, 20-Aug-2017. [Online]. Available: [2]https://www.kaggle.com/datasets/snapcrack/all-the-news. [Accessed: 26-Oct-2022].
 [3] “Allsides Media Bias Chart,” AllSides, 18-Aug-2022. [Online]. Available: https://www.allsides.com/media-bias/media-bias-chart. [Accessed: 26-Oct-2022].
 [4] C. Thompson, “Tutorial: Text analysis in python to test a hypothesis,” Dataquest, 23-Nov-2021. [Online]. Available: https://www.dataquest.io/blog/tutorial-text-analysis-python-test-hypothesis/. [Accessed: 26-Oct-2022]. 
 
-##Acknowledgements
+## Acknowledgements
 #We would like to thank Professor Alonsi and Harsh for their help and guidance throughout this project.
 
-##M1 
+## M1 
 https://docs.google.com/document/d/1u2Jcy1205B5sBYnBphjKAD5MEC4lWXkUg5z2RbAMTFM/edit
 
-##M2 
+## M2 
 https://docs.google.com/document/d/1fW0un8zVjEAFUPrLxcfBCttgL_VtmVMTkuJ6sjTF9IA/edit
 
